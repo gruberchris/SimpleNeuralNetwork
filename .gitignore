@@ -1,0 +1,7 @@
+# Popular editors
+.vscode
+.idea
+
+bin
+obj
+.vs
